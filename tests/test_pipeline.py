@@ -4,7 +4,7 @@ import json
 from agents.orchestrator import Orchestrator
 
 def test_full_pipeline_contract():
-    """Tests that the pipeline respects the strict engineering contracts."""
+    
     orch = Orchestrator()
     sample_input = {
         "title": "Test Serum",
@@ -28,7 +28,7 @@ def test_full_pipeline_contract():
     assert "comparison_page.json" in results["output_files"]
 
 def test_input_validation_failure():
-    """Tests that the new validation node catches bad data early (Gap 12)."""
+    
     orch = Orchestrator()
     bad_input = {"title": "Missing Fields"} # Lacks required fields
     
