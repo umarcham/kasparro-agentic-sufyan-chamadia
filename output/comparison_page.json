@@ -1,0 +1,36 @@
+{
+  "title": "GlowSerum Ultra - Comparison",
+  "comparison_table": {
+    "attributes": [
+      "product_name",
+      "price_inr",
+      "primary_formulation",
+      "key_ingredients",
+      "target_skin_type"
+    ],
+    "products": [
+      {
+        "product_name": "GlowSerum Ultra",
+        "price_inr": 2500,
+        "primary_formulation": "High-potency Vitamin C Formulation",
+        "key_ingredients": "Vitamin C, Hyaluronic Acid, and Ferulic Acid",
+        "target_skin_type": [
+          "Dull",
+          "Dry",
+          "Normal"
+        ]
+      },
+      {
+        "product_name": "Radiance Boost Serum (Competitor)",
+        "price_inr": 1800,
+        "primary_formulation": "Standard Ascorbic Acid Concentration",
+        "key_ingredients": "Vitamin C, Glycerin, Niacinamide",
+        "target_skin_type": [
+          "Oily",
+          "Combination"
+        ]
+      }
+    ]
+  },
+  "comparison_summary": "GlowSerum Ultra is positioned as the premium option at 2500 INR, featuring a high-potency Vitamin C formulation enhanced by Hyaluronic and Ferulic Acids, specifically targeting dull and dry skin types. The generic competitor, Radiance Boost Serum, is more affordable at 1800 INR and contains a standard concentration of Vitamin C alongside Niacinamide, making it better suited for oily and combination skin. The main differentiators are the ingredient boosters, formulation potency, and price point."
+}

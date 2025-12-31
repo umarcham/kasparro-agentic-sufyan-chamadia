@@ -1,0 +1,9 @@
+{
+  "title": "GlowSerum Ultra",
+  "description": "A high-potency vitamin C serum for radiant skin.",
+  "price": 2500,
+  "ingredients": ["Vitamin C", "Hyaluronic Acid", "Ferulic Acid"],
+  "usage": "Apply 3 drops morning and night.",
+  "safety": "Avoid contact with eyes. Patch test before use.",
+  "target_skin_type": ["Dull", "Dry", "Normal"]
+}

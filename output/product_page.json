@@ -1,0 +1,18 @@
+{
+  "title": "GlowSerum Ultra - Product Guide",
+  "description": "A high-potency vitamin C serum for radiant skin.",
+  "blocks": [
+    {
+      "title": "Benefits",
+      "content": "Promotes radiant and glowing skin. Addresses dullness and uneven tone. Provides essential hydration."
+    },
+    {
+      "title": "Usage Instructions",
+      "content": "Apply 3 drops morning and night."
+    },
+    {
+      "title": "Safety Summary",
+      "content": "Dermatologically recommended safety practices should be followed during application. Warnings: Avoid contact with eyes. Patch test before initial use."
+    }
+  ]
+}

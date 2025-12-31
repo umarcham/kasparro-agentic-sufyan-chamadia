@@ -1,0 +1,89 @@
+{
+  "title": "GlowSerum Ultra - Frequently Asked Questions",
+  "sections": [
+    {
+      "type": "intro",
+      "content": "Everything you need to know about our latest product."
+    },
+    {
+      "type": "faq_list",
+      "content": [
+        {
+          "category": "informational",
+          "question": "What is the primary function and benefit of GlowSerum Ultra?",
+          "answer": "GlowSerum Ultra is a high-potency vitamin C serum primarily designed to achieve radiant skin and address concerns such as dullness."
+        },
+        {
+          "category": "informational",
+          "question": "What is the core specification of the GlowSerum Ultra formulation?",
+          "answer": "The core specification is its High-potency Vitamin C Formulation."
+        },
+        {
+          "category": "informational",
+          "question": "Besides Vitamin C, what other key ingredients are included in this serum?",
+          "answer": "In addition to Vitamin C, GlowSerum Ultra contains Hyaluronic Acid for hydration and Ferulic Acid, which stabilizes the formula and boosts antioxidant efficacy."
+        },
+        {
+          "category": "informational",
+          "question": "Which specific skin types is GlowSerum Ultra intended for?",
+          "answer": "GlowSerum Ultra is specifically targeted for individuals with Dull, Dry, and Normal skin types."
+        },
+        {
+          "category": "usage",
+          "question": "How should GlowSerum Ultra be incorporated into a daily skincare routine?",
+          "answer": "Apply the serum after cleansing and toning. Since it is a high-potency antioxidant, it is generally recommended for morning use before applying moisturizer and SPF."
+        },
+        {
+          "category": "usage",
+          "question": "Does the presence of Hyaluronic Acid affect application frequency?",
+          "answer": "No, the inclusion of Hyaluronic Acid helps support hydration, making the serum suitable for once-daily application, especially beneficial for dry skin types."
+        },
+        {
+          "category": "usage",
+          "question": "Should I apply a moisturizer after using GlowSerum Ultra?",
+          "answer": "Yes, always allow the serum to absorb fully before applying your favorite moisturizer, especially if you have dry skin, as this product targets Dull and Dry skin types."
+        },
+        {
+          "category": "usage",
+          "question": "What specific result can I expect when targeting 'Dull' skin with this product?",
+          "answer": "By using the high-potency Vitamin C formulation, users targeting dull skin can expect increased radiance and improved overall skin brightness."
+        },
+        {
+          "category": "safety",
+          "question": "Is GlowSerum Ultra safe to use year-round?",
+          "answer": "Yes, Vitamin C and Ferulic Acid are powerful antioxidants, making the product suitable for year-round use, though daily sunscreen application is crucial when using high-potency serums."
+        },
+        {
+          "category": "safety",
+          "question": "What role does Ferulic Acid play in the serum's safety and effectiveness?",
+          "answer": "Ferulic Acid is included to help stabilize the high-potency Vitamin C, preventing premature oxidation and ensuring that the formulation remains maximally effective and safe throughout its use period."
+        },
+        {
+          "category": "safety",
+          "question": "Are there any known ingredients in the serum that may cause irritation for sensitive users?",
+          "answer": "While formulated for Normal and Dry skin, users should be aware of the High-potency Vitamin C content. Individuals with highly reactive or sensitive skin should perform a patch test before full facial application."
+        },
+        {
+          "category": "pricing",
+          "question": "What is the standard price for GlowSerum Ultra?",
+          "answer": "The listed price for GlowSerum Ultra is 2500 (currency unit not specified)."
+        },
+        {
+          "category": "pricing",
+          "question": "Does the price of 2500 reflect a premium product?",
+          "answer": "The pricing of 2500 reflects the specialized formulation featuring High-potency Vitamin C combined with key supporting ingredients like Hyaluronic Acid and Ferulic Acid."
+        },
+        {
+          "category": "comparison",
+          "question": "How does the inclusion of Hyaluronic Acid differentiate GlowSerum Ultra from other Vitamin C serums?",
+          "answer": "Unlike basic Vitamin C serums, GlowSerum Ultra combines its High-potency Vitamin C with Hyaluronic Acid, ensuring that it simultaneously targets radiance for dull skin while deeply hydrating dry skin."
+        },
+        {
+          "category": "comparison",
+          "question": "What makes the 'High-potency Vitamin C Formulation' superior to a standard Vitamin C product?",
+          "answer": "The high-potency formulation ensures a maximized concentration of Vitamin C, which is further stabilized and enhanced by Ferulic Acid, offering superior antioxidant protection and more visible radiance results compared to standard concentration products."
+        }
+      ]
+    }
+  ]
+}

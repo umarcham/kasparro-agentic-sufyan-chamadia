@@ -1,0 +1,25 @@
+{
+  "faq_page": {
+    "title": "{{name}} - Frequently Asked Questions",
+    "sections": [
+      {
+        "type": "intro",
+        "content": "Everything you need to know about our latest product."
+      },
+      {
+        "type": "faq_list",
+        "content": []
+      }
+    ]
+  },
+  "product_page": {
+    "title": "{{name}} - Product Guide",
+    "description": "",
+    "blocks": []
+  },
+  "comparison_page": {
+    "title": "{{name}} - Comparison",
+    "comparison_table": {},
+    "comparison_summary": ""
+  }
+}

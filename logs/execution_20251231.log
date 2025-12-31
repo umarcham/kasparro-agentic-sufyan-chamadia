@@ -1,0 +1,52 @@
+2025-12-31 12:27:03,503 - Orchestrator - INFO - Starting pipeline for thread: default_thread
+2025-12-31 12:27:03,505 - Orchestrator - INFO - --- VALIDATING RAW INPUT ---
+2025-12-31 12:27:03,505 - ProductParserAgent - INFO - --- PARSING PRODUCT DATA ---
+2025-12-31 12:27:03,507 - LLMService - INFO - Generating structured output for ProductData (Attempt 1)
+2025-12-31 12:27:08,139 - ProductParserAgent - INFO - Spec Tool Validation result: SUCCESS: All specifications passed industry standard validation.
+2025-12-31 12:27:08,140 - QuestionGenerationAgent - INFO - --- GENERATING FAQS ---
+2025-12-31 12:27:08,143 - LLMService - INFO - Generating structured output for FAQList (Attempt 1)
+2025-12-31 12:27:17,369 - ContentLogicAgent - INFO - --- EXTRACTING LOGIC BLOCKS ---
+2025-12-31 12:27:17,371 - LLMService - INFO - Generating structured output for LogicResponse (Attempt 1)
+2025-12-31 12:27:20,497 - ComparisonAgent - INFO - --- GENERATING COMPARISON DATA ---
+2025-12-31 12:27:20,498 - LLMService - INFO - Generating structured output for ComparisonTable (Attempt 1)
+2025-12-31 12:27:25,678 - QualityCheckerAgent - INFO - --- AUDITING CONTENT QUALITY ---
+2025-12-31 12:27:25,680 - LLMService - INFO - Generating structured output for QualityCheckResult (Attempt 1)
+2025-12-31 12:27:29,669 - Orchestrator - INFO - Quality gate FAILED. Retry count: 1
+2025-12-31 12:27:29,670 - QuestionGenerationAgent - INFO - --- GENERATING FAQS ---
+2025-12-31 12:27:29,673 - LLMService - INFO - Generating structured output for FAQList (Attempt 1)
+2025-12-31 12:27:38,855 - ContentLogicAgent - INFO - --- EXTRACTING LOGIC BLOCKS ---
+2025-12-31 12:27:38,857 - LLMService - INFO - Generating structured output for LogicResponse (Attempt 1)
+2025-12-31 12:27:42,369 - ComparisonAgent - INFO - --- GENERATING COMPARISON DATA ---
+2025-12-31 12:27:42,371 - LLMService - INFO - Generating structured output for ComparisonTable (Attempt 1)
+2025-12-31 12:27:47,122 - QualityCheckerAgent - INFO - --- AUDITING CONTENT QUALITY ---
+2025-12-31 12:27:47,124 - LLMService - INFO - Generating structured output for QualityCheckResult (Attempt 1)
+2025-12-31 12:27:52,917 - Orchestrator - INFO - Quality gate FAILED. Retry count: 2
+2025-12-31 12:27:52,919 - QuestionGenerationAgent - INFO - --- GENERATING FAQS ---
+2025-12-31 12:27:52,923 - LLMService - INFO - Generating structured output for FAQList (Attempt 1)
+2025-12-31 12:28:01,937 - ContentLogicAgent - INFO - --- EXTRACTING LOGIC BLOCKS ---
+2025-12-31 12:28:01,939 - LLMService - INFO - Generating structured output for LogicResponse (Attempt 1)
+2025-12-31 12:28:05,013 - ComparisonAgent - INFO - --- GENERATING COMPARISON DATA ---
+2025-12-31 12:28:05,015 - LLMService - INFO - Generating structured output for ComparisonTable (Attempt 1)
+2025-12-31 12:28:10,008 - QualityCheckerAgent - INFO - --- AUDITING CONTENT QUALITY ---
+2025-12-31 12:28:10,010 - LLMService - INFO - Generating structured output for QualityCheckResult (Attempt 1)
+2025-12-31 12:28:15,442 - Orchestrator - ERROR - Max iterations reached. Halting pipeline.
+2025-12-31 12:28:15,445 - Orchestrator - INFO - Pipeline completed successfully.
+2025-12-31 12:34:16,728 - Orchestrator - INFO - Starting pipeline for thread: default_thread
+2025-12-31 12:34:16,731 - Orchestrator - INFO - --- VALIDATING RAW INPUT ---
+2025-12-31 12:34:16,732 - ProductParserAgent - INFO - --- PARSING PRODUCT DATA ---
+2025-12-31 12:34:16,733 - LLMService - INFO - Generating structured output for ProductData (Attempt 1)
+2025-12-31 12:34:22,551 - ProductParserAgent - INFO - Spec Tool Validation result: SUCCESS: All specifications passed industry standard validation.
+2025-12-31 12:34:22,553 - QuestionGenerationAgent - INFO - --- GENERATING FAQS ---
+2025-12-31 12:34:22,555 - LLMService - INFO - Generating structured output for FAQList (Attempt 1)
+2025-12-31 12:34:32,535 - ContentLogicAgent - INFO - --- EXTRACTING LOGIC BLOCKS ---
+2025-12-31 12:34:32,538 - LLMService - INFO - Generating structured output for LogicResponse (Attempt 1)
+2025-12-31 12:34:35,316 - ComparisonAgent - INFO - --- GENERATING COMPARISON DATA ---
+2025-12-31 12:34:35,318 - LLMService - INFO - Generating structured output for ComparisonTable (Attempt 1)
+2025-12-31 12:34:41,193 - QualityCheckerAgent - INFO - --- AUDITING CONTENT QUALITY ---
+2025-12-31 12:34:41,196 - LLMService - INFO - Generating structured output for QualityCheckResult (Attempt 1)
+2025-12-31 12:34:46,513 - Orchestrator - INFO - Quality gate PASSED.
+2025-12-31 12:34:46,514 - PageAssemblerAgent - INFO - --- ASSEMBLING OUTPUT PAGES ---
+2025-12-31 12:34:46,518 - Orchestrator - INFO - Saved: output/faq.json
+2025-12-31 12:34:46,519 - Orchestrator - INFO - Saved: output/product_page.json
+2025-12-31 12:34:46,519 - Orchestrator - INFO - Saved: output/comparison_page.json
+2025-12-31 12:34:46,519 - Orchestrator - INFO - Pipeline completed successfully.
